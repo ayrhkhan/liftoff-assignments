@@ -13,6 +13,6 @@ https://github.com/ayrhkhan
 https://www.linkedin.com/in/ammaarah-khan/
 
 ### Resume
-https://docs.google.com/document/d/1lJaFp1YMdlAMr4CDjGIAwzJFvp9nbCd0o2AgHpbPIb8/edit?usp=sharing
+[AmmaarahKhan.pdf](https://github.com/ayrhkhan/liftoff-assignments/files/9553392/AmmaarahKhan.pdf)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
